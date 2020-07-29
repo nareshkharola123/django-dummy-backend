@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "aws_region": "us-east-1", 
+        "django_settings": "django_zappa_sample.settings", 
+        "profile_name": "bayview-dev", 
+        "project_name": "bayview", 
+        "runtime": "python2.7", 
+        "s3_bucket": "bayview-api-dev"
+        "role_name": "zappalambdaexecutionrole",
+        "manage_roles": false,
+        "keep_warm": false
+    }
+}
+

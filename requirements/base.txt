@@ -1,0 +1,12 @@
+Django==3.0.3
+django-cors-headers==3.2.1
+django-extensions==2.2.8
+django-safedelete==0.5.4
+djangorestframework==3.11.0
+flake8==3.7.9
+ipython==7.12.0
+jwt==0.6.1
+psycopg2-binary==2.8.4
+PyJWT==1.7.1
+python-dotenv==0.11.0
+redis==3.4.1
